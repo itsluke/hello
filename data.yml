@@ -1,0 +1,381 @@
+1988:
+  -
+    message: "Born 6:20am, 6.2lb"
+    date: "01.01 06:20"
+1999:
+  -
+    message: "Wrote my first lines of code on a NeoPets site"
+    date: "10.07 20:00"
+2004:
+  -
+    message: "Started coding Myspaces for friends"
+    date: "01.05 20:00"
+2005:
+  -
+    message: "Discovered the murky world of ActionScript"
+    date: "01.07 20:00"
+  -
+    message: "Had my first experience VJing with Flash visuals"
+    date: "01.08 21:00"
+2006:
+  -
+    message: "Left SCAT (Somerset College Of Arts & Design) with a Graphic Design & Multimedia Studies BTEC"
+    date: "01.06 16:00"
+  -
+    message: "Moved to Chislehurst, London"
+    date: "01.09 08:00"
+  -
+    message: "Started at BA Graphic Design @ Ravensbourne University, London"
+    date: "03.09 09:00"
+  -
+    message: "Had my first experience of real standup comedy @ [Up The Creek](http://www.up-the-creek.com/)"
+    date: "31.10 19:00"
+2008:
+  -
+    message: "Began programing PHP, thanks for the inspiration [Jon](https://github.com/jongold)"
+    date: "04.01 09:00"
+    with: 
+      - 'Jon Gold, <jongold@users.noreply.github.com>'
+  -
+    message: "Transfered to BA Graphic Communication @ Kingston University London"
+    date: "01.09 09:00"
+    with: 
+      - 'Thomas Digby, <thomasdigby1@gmail.com>'
+  -
+    message: "Discovered real Jamaican food"
+    date: "04.10 09:00"
+  -
+    message: "Built my first paid website"
+    date: "21.02 09:00"
+  -
+    message: "Worked at Edinburgh Fringe Festival for the first time"
+    date: "30.07 14:00"
+2009:
+  -
+    message: "Thankfully avoided being arrested for an art project with [Mark](https://www.instagram.com/jolly_creative_workshop/)"
+    date: "19.11 09:00"
+  -
+    message: "Started up a comedy photography business"
+    date: "04.10 19:00"
+  -
+    message: "Worked at Edinburgh Fringe Festival again"
+    date: "30.07 14:00"
+2010:
+  -
+    message: "Received a D&AD student commendation"
+    date: "03.05 09:00"
+  -
+    message: "Worked at Edinburgh Fringe Festival again, again"
+    date: "30.07 14:00"
+  -
+    message: "Did my first radio interview on ABC Australia"
+    date: "04.08 08:00"
+  -
+    message: "Flew to London for a BBC interview"
+    date: "05.08 18:00"
+  -
+    message: "Became an offical ['Non-Word Expert'](http://www.bbc.com/news/av/entertainment-arts-10890160/furgle-dringle-experts-define-non-words-innit)"
+    date: "06.08 08:00"
+  -
+    message: "Back to Edinburgh"
+    date: "05.08 20:00"
+  -
+    message: "Drove +700 miles to pick up letter press equipment"
+    date: "20.10 07:00"
+  -
+    message: "Graduated Kingston University London"
+    date: "13.11 09:00"
+  -
+    message: "Moved to the city of love, France"
+    date: "01.12 08:45"
+  -
+    message: "Started at Ogilvy & Mather, Paris"
+    date: "03.12 08:45"
+2011:
+  -
+    message: "Found a love for advertising"
+    date: "13.01 20:00"
+  -
+    message: "Worked at Edinburgh Fringe Festival for the last time"
+    date: "30.07 14:00"
+  -
+    message: "Learn never to order a steak medium well"
+    date: "18.02 21:00"
+  -
+    message: "Cemented my infatuation with cooking"
+    date: "26.02 21:00"
+  -
+    message: "Had my eyes opened to the offaly joy of andouillette"
+    date: "10.03 19:00"
+  -
+    message: "Fell in love with French food"
+    date: "10.03 19:01"
+  -
+    message: "Fell out of love with advertising"
+    date: "16.11 03:40"
+2012:
+  -
+    message: "Moved to Montreal, Canada"
+    date: "10.01 19:00"
+  -
+    message: "Experienced my first startup"
+    date: "04.06 09:30"
+    with:
+      - 'Derek Jen, <derek.jen@partadialogue.com>'
+  -
+    message: "Began work at WhyNotBlue"
+    date: "09.07 10:00"
+    with:
+      - "Francis Guillemette, <kaloop@user.noreply.github.com>"
+  -
+    message: "Began learning Ruby"
+    date: "16.07 11:30"
+  -
+    message: "Built my ROR (Ruby On Rails) product, 'Sur Le Trottoir' allowing people to post photos and locations of cool junk they'd found on the street"
+    date: "10.08 11:30"
+  -
+    message: "Discovered a love for digital products"
+    date: "12.08 16:30"
+  -
+    message: "Started learning Javascript"
+    date: "12.07 16:35"
+  -
+    message: "Had my first projection mapping gig"
+    date: "04.08 18:30"
+  -
+    message: "Learnt what winter really meant"
+    date: "31.10 20:30"
+  -
+    message: "Did my best mighty ducks impression while learning to ice skate"
+    date: "20.10 14:30"
+  -
+    message: "Survived a work flight though hurricane Sandy"
+    date: "23.10 18:00"
+  -
+    message: "Ran my first UX workshop"
+    date: "18.07 11:00"
+  -
+    message: "Got my first introduction to the cloud"
+    date: "20.08 12:00"
+  -
+    message: "Ran my second UX workshop"
+    date: "18.09 12:00"
+  -
+    message: "Hired my first junior"
+    date: "24.10 12:00"
+2013:
+  -
+    message: "Discovered what -38°C feels like"
+    date: "23.01 00:01"
+  -
+    message: "Launched [www.fluvalaquatics.com](http://www.fluvalaquatics.com/ca/saltwater/)"
+    date: "18.03 09:00"
+  -
+    message: "Became a UX consultant"
+    date: "10.05 10:00"
+  -
+    message: "Began my year of visa applications"
+    date: "26.06 10:00"
+  -
+    message: "Had my last Canadian poutine (Chez Claudette FTW!)"
+    date: "13.07 14:00"
+  -
+    message: "Had to leave Canada when Quebec decided I officially wasn't French enough for a new visa"
+    date: "22.07 18:00"
+  -
+    message: "Took a 4.5-day Greyhound Bus from Montreal > San-Franciso"
+    date: "24.07 12:00"
+  -
+    message: "Launched [Elevenses with Luke](www.elevenseswithluke.com) and began meeting SF startups"
+    date: "28.07 09:00"
+  -
+    message: "Got offered a job in SF"
+    date: "19.08 10:00"
+  -
+    message: "Started looking for a visa"
+    date: "20.08 09:00"
+  -
+    message: "Realised there wasn't really visa options"
+    date: "23.08 19:00"
+  -
+    message: "Turned down a job in SF"
+    date: "26.08 11:00"
+  -
+    message: "Returned to London and started freelance design and development work"
+    date: "18.10 16:45"
+2014:
+  -
+    message: "Created my first facebook app"
+    date: "19.05 10:00" 
+  -
+    message: "Designed developed the 'My Perfect Weekend' microsite for the Financial Times"
+    date: "28.08 10:00" 
+  -
+    message: "Created my first js data visualisations"
+    date: "19.05 10:00"
+  -
+    message: "Built my first data parser"
+    date: "12.06 14:00"
+  -
+    message: "Built several twitter bots"
+    date: "13.06 20:00"
+  -
+    message: "Built my first API"
+    date: "13.06 20:00"
+  -
+    message: "Designed and Developed PropertyShare for WigwammCo"
+    date: "26.05 10:00"
+    with:
+      - "Simone Ferrini, <sferrini@user.noreply.github.com>"
+  -
+    message: "Began work at FoodIt"
+    date: "26.06 10:00"
+    with:
+      - "Joachim Davies, <j-davies@user.noreply.github.com>"
+      - "Mick Dudley, <mickdudley@user.noreply.github.com>"
+  -
+    message: "Attended HybridConf in Sweden"
+    date: "21.08 10:00"
+    with: 
+      - "Zach Inglis, <zach@lt3media.com>"
+      - "James Seymour-Lock, <james@simpleasmilk.co.uk>"
+      - "Jon Gold, <jongold@users.noreply.github.com>"
+      - "Scott Riley, <hugs@scottriley.im>"
+      - "Jack Smith, <hello@jacksmith.is>"
+      - "Chad Tomkiss, <chadtomkiss@user.noreply.github.com>"
+      - "Jake Giltsoff, <hi@jke.me>"
+      - "Mike Scott, <its-mike@user.noreply.github.com>"
+      - "Laura Sanders, <teawithlemon@users.noreply.github.com>"
+      - "Toby Sims, <swooop@users.noreply.github.com>"
+      - "John O'Nolan, <JohnONolan@users.noreply.github.com>"
+      - "Cat Noone, <hello@heyimcat.com>"
+      - "Tobias Ahlin, <tobiasahlin@user.noreply.github.com>"
+      - "Tony Daly, <tony.daly@me.com>"
+      - "Alex Jegtnes, <alex@jegtnes.com>"
+      - "Stuart Robson, <stuart.robson@monotype.com>"
+  -
+    message: "Traveled to NYC with a brilliant group of freelancers"
+    date: "12.10 10:00"
+    with:
+      - "Zach Inglis, <zach@lt3media.com>"
+      - "James Seymour-Lock, <james@simpleasmilk.co.uk>"
+      - "Jon Gold, <jongold@users.noreply.github.com>"
+      - "Scott Riley, <hugs@scottriley.im>"
+      - "Jack Smith, <hello@jacksmith.is>"
+      - "Chad Tomkiss, <chadtomkiss@user.noreply.github.com>"
+      - "Jake Giltsoff, <hi@jke.me>"
+      - "Laura Sanders, <teawithlemon@users.noreply.github.com>"
+  -
+    message: "Considered getting visa married"
+    date: "12.12 16:00"
+    with:
+      - "Keiki, <keiki@user.noreply.github.com>"
+2015:
+  -
+    message: "Started work at Sibera, London"
+    date: "09.02 10:00"
+    with: 
+      - "Ben Roth, <b3nroth@gmail.com>"
+      - "Derek J. Kinsman, <derek@unttld.com>"
+      - "Chris Miller, <chrisjoonmiller@gmail.com>"
+      - "Bryan Swift, <mail@bryanwrit.es>"
+      - "Florent Segouin, <florent@segouin.me>"
+      - "François Hoehl, <fhoehl@user.noreply.github.com>"
+      - "Alex Jarvis, <alruii@user.noreply.github.com>"
+      - "Darrel Whitelaw, <darrellwhitelaw@gmail.com>"
+      - "Ryan Warner, <warner.ryan@gmail.com>"
+      - "Stephen Hadinger, <stephen.hadinger@gmail.com>"
+      - "Kristian Kruse, <krusnof@user.noreply.github.com>"
+      - "Utku, <utku@user.noreply.github.com>"
+      - "Chris Stephens, <nyldn@user.noreply.github.com>"
+      - "Rob Eberharbt, <robeberhardt@user.noreply.github.com>"
+      - "Allen Wong, <neverether@user.noreply.github.com>"
+  -
+    message: "Began life as a consultant"
+    date: "09.02 10:00"
+  -
+    message: "Took a lot of flights"
+    date: "29.04 10:00"
+  -
+    message: "Had the unenviable experience of learning all about [GWT](http://www.gwtproject.org/)"
+    date: "22.06 10:00"
+  -
+    message: "Had the enviable experience of working with some great people on a 2-year project to design the new AOL 'One Platform'"
+    date: "22.06 10:01"
+  -
+    message: "Attended HybridConf in Dublin"
+    date: "19.08 10:00"
+    with:
+      - "Ben Roth, <b3nroth@gmail.com>"
+      - "Zach Inglis, <zach@lt3media.com>"
+      - "Kym Ellis, <kymellis@user.noreply.github.com>"
+      - "Svilen Gospodinov, <webmaster@s2g.io>"
+      - "James Seymour-Lock, <james@simpleasmilk.co.uk>"
+      - "Scott Riley, <hugs@scottriley.im>"
+      - "Jack Smith, <hello@jacksmith.is>"
+      - "Chad Tomkiss, <chadtomkiss@user.noreply.github.com>"
+      - "Jake Giltsoff, <hi@jke.me>"
+      - "Laura Sanders, <teawithlemon@users.noreply.github.com>"
+2016:
+  -
+    message: "Moved to Berlin, Germany"
+    date: "05.06 19:00"
+    with:
+      - "Allen Wong, <neverether@user.noreply.github.com>"
+  -
+    message: "Started to learn German"
+    date: "13.07 18:30"
+  -
+    message: "Filled out many many forms"
+    date: "16.06 16:00"
+  -
+    message: "Traveled to Chengdu, China for a cooking course"
+    date: "24.06 10:00"
+  -
+    message: "Climbed Mount Emei, China"
+    date: "28.06 18:00"
+  -
+    message: "Gave a talk at HybridConf"
+    date: "19.08 16:00"
+    with:
+      - "Zach Inglis, <zach@lt3media.com>"
+      - "James Seymour-Lock, <james@simpleasmilk.co.uk>"
+      - "Scott Riley, <hugs@scottriley.im>"
+      - "Iestyn Williams, <hello_iest@me.com>"
+      - "Jack Smith, <hello@jacksmith.is>"
+      - "Chad Tomkiss, <chadtomkiss@user.noreply.github.com>"
+      - "Jake Giltsoff, <hi@jke.me>"
+      - "Mike Scott, <its-mike@user.noreply.github.com>"
+      - "Laura Sanders, <teawithlemon@users.noreply.github.com>"
+      - "Tony Daly, <tony.daly@me.com>"
+      - "Alex Jegtnes, <alex@jegtnes.com>"
+      - "Stuart Robson, <stuart.robson@monotype.com>"
+      - "Joel Califa, <602352+califa@users.noreply.github.com>"
+  -
+    message: "Got far too familiar with the inside of a hospital"
+    date: "21.11 20:30"
+  -
+    message: "Got stranded in the UK"
+    date: "22.11 08:30"
+  -
+    message: "Started to forget German"
+    date: "24.11 18:30"
+  -
+    message: "Had my first general anesthetic"
+    date: "04.12 06:30"
+2017:
+  -
+    message: "Learnt how to 'walk' with crutches"
+    date: "24.01 16:30"
+  -
+    message: "Learnt how to walk again without crutches"
+    date: "30.04 08:30"
+  -
+    message: "Said goodbye to the metal in my knee"
+    date: "01.10 06:00"
+  -
+    message: "Said goodbye to the staples in my knee"
+    date: "14.10 06:00"
+  -
+    message: "Began growing too many plants in my apartment"
+    date: "10.11 10:00"
